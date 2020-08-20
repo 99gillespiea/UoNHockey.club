@@ -9,7 +9,3 @@ imageshadow: true
 
 
 Founded in XXXX, our club has been operating at the top level of national university sport for decades, with notable alumni including, Tom Sorsby, etc.
-
-
-
-
