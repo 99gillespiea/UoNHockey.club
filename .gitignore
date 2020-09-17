@@ -5,3 +5,6 @@ Gemfile.lock
 .sass-cache
 *~
 .jekyll-cache
+*.svg
+*.eps
+

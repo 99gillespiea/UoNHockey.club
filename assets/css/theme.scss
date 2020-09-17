@@ -114,9 +114,9 @@ img, img:hover {
 }
 // menu
 .navbar-brand img {
-    max-height:80px;
-    margin-bottom:40px;
-    margin-top:40px;
+    max-height:200px;
+    margin-bottom:10px;
+    margin-top:10px;
 }
 .sidebar {
     position: fixed;
@@ -365,7 +365,7 @@ img, img:hover {
     }
     margin-top:120px;   
     img.newsletter-logo {
-        max-height:70px;
+        max-height:140px;
     } 
     input {
         border:1px solid transparent;

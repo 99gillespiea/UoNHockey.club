@@ -3,7 +3,7 @@ layout: page
 title: Everything you need to know about the University of Nottingham Men's Hockey Club
 permalink: /about
 comments: false
-image: assets/images/AboutImage.jpg
+image: assets/images/LeeValley4sCelebration1819.JPG
 imageshadow: true
 ---
 

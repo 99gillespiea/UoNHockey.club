@@ -2,8 +2,9 @@
 name: "UoNMHC"
 title: "University of Nottingham Men's Hockey"
 description: "Welcome to the University of Nottingham Men's Hockey Club "
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/ClubCrestBlack.png'
+newsletterlogo: 'assets/images/SmallUoNSportLogo.png'
+favicon: 'assets/images/favicon.png'
 baseurl: 
 url: https://uonhockey.club
 google_analytics: 'UA-xxxxxxxx-1'
@@ -22,10 +23,11 @@ authors:
     web: https://uonhockey.club
     twitter: https://twitter.com/uon_hc
     description: "Posts from the committee of UoNMHC"
+    avatar: 'assets/images/ClubCrestBlack.jpg'
   gil:
     name: Alex Gillespie
     display_name: Alex 
-    avatar: 'assets/images/avatar.png'   
+    avatar: 'assets/images/GilAvatar.jpg'   
     email: ldyag8@nottingham.ac.uk
     description: "Posts from the Social Media Secretary of UoNMHC"
 
