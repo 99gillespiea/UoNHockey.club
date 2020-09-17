@@ -4,7 +4,7 @@ title: "University of Nottingham Men's Hockey"
 description: "Welcome to the University of Nottingham Men's Hockey Club "
 logo: 'assets/images/ClubCrestBlack.png'
 newsletterlogo: 'assets/images/SmallUoNSportLogo.png'
-favicon: 'assets/images/favicon.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: 
 url: https://uonhockey.club
 google_analytics: 'UA-xxxxxxxx-1'
